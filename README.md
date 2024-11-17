@@ -28,12 +28,6 @@ This project is a Student Spending Dashboard created to analyze and visualize st
 
 ![screenshot](https://github.com/Nathasyarnt/Student-Spending-Dashboard/blob/main/Screenshot.png)
 
-## Project Insight
-- Insight on demographics: male students, in their freshman year and aged 21-22, represent the largest group.
-- Monthly expenses exceed monthly income.
-- Housing and food are the largest expense categories, both exceeding the average spending amount.
-- Housing, food, and technology are the top three expense categories across all majors and income categories for students.
-
 ## Final Conclusion
 To reduce housing expenses, several solutions are proposed:
 - Campus Dormitories: Universities can provide affordable on-campus housing or collaborate with housing providers to offer subsidized options for students.
