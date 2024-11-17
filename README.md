@@ -18,7 +18,7 @@ This project is a Student Spending Dashboard created to analyze and visualize st
 - How does income compare to spending for students based on their major?
 
 ## Process
-- Data Collection : Dwonload data from the link above
+- Data Collection : Download data from the link above
 - Data Cleaning and Preparation : Processed raw data, detect missing value and add some column to facilitate visualization
 - Data Visualization : Created interactive dashboards for user friendly
 - Analysis : Conducted trend and segmentation analysis on spending behaviors
